@@ -21,6 +21,7 @@ set path=%_config_%;%path%
 set path=%_apps_%\4coder;%path%
 set path=%_apps_%\raddbg;%path%
 set path=%_apps_%\ctime;%path%
+set path="%_apps_%\cloc";%path%
 
 
 call "%_apps_%\msvc\VC\Auxiliary\Build\vcvarsall.bat" x64

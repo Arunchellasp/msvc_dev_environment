@@ -1,0 +1,5 @@
+// raddbg 0.9.21 project file
+
+recent_file: path: "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/stdio.h"
+recent_file: path: "../../code/main.c"
+recent_file: path: "../../../../os/obj/amd64fre/minkernel/crts/ucrt/src/appcrt/stdio/mt/objfre/amd64/minkernel/crts/ucrt/src/appcrt/stdio/_file.cpp"
