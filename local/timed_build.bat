@@ -1,4 +1,4 @@
 @echo off
 ctime -begin "%_config_%\ctime.ctm"
-call build.bat %* 
+call "%_home_%\build.bat" %*
 ctime -end "%_config_%\ctime.ctm" %ERRORLEVEL%
